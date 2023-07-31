@@ -1,6 +1,6 @@
 ## 方案框架
 
-以 前端 UI 與後端 API 的方式做為大框架
+以 前端 UI 與後端 API 的方式做為大框架  
 前端主要以 Vue 為主，後端主要以 Java 為主
 
 ### 大致用到的技術與套件
@@ -16,12 +16,12 @@
 
 ## 參考
 ### 官網
-[Vue2](https://v2.vuejs.org/v2/guide/)
-[electron](https://www.electronjs.org/)
+[Vue2](https://v2.vuejs.org/v2/guide/)  
+[electron](https://www.electronjs.org/)  
 [Micrometer](https://micrometer.io/)
 
 ### 技術文章
-[electron](https://ithelp.ithome.com.tw/articles/10254357)
-[electron + Vue](https://ithelp.ithome.com.tw/articles/10254290)
-[Spring Boot + Micrometer](https://www.baeldung.com/spring-boot-self-hosted-monitoring)
+[electron](https://ithelp.ithome.com.tw/articles/10254357)  
+[electron + Vue](https://ithelp.ithome.com.tw/articles/10254290)  
+[Spring Boot + Micrometer](https://www.baeldung.com/spring-boot-self-hosted-monitoring)  
 [Spring Boot + Micrometer](https://blog.csdn.net/aixiaoyang168/article/details/100866159)
